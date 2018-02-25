@@ -25,7 +25,7 @@
         <dependency>
             <groupId>net.dries007.mclink</groupId>
             <artifactId>MCLink-Bukkit</artifactId>
-            <version>0.2.0</version>
+            <version>0.2.1</version>
             <scope>provided</scope>
         </dependency>
 
